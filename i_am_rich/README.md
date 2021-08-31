@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # i_am_rich
 
-A new Flutter project.
+A new Flutter app that displays a diamond
 
 ## Getting Started
 
